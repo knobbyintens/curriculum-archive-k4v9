@@ -8,6 +8,7 @@ Every filed item gets exactly one entry in the checklist below.
 - **academics/course-materials/syllabus-algebra-101.md** — Algebra I syllabus, reviewed 2026-08-14
 - **academics/course-materials/reading-list-chemistry-201.md** — Chemistry 201 reading list, reviewed 2026-08-19
 - **academics/language-exam-prep/listening-drills.md** — Listening drill index, reviewed 2026-09-02
+- **academics/course-materials/exam.csv** — 2026 autumn course exam timetable, reviewed 2026-11-10
 
 ## Process Notes
 
